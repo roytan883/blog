@@ -23,6 +23,7 @@
 ##### 20180614_03.md   [《PostgreSQL 流复制协议交互式调试 - replication=true》](20180614_03.md)  
 ##### 20180614_02.md   [《PostgreSQL jdbc multi-host 配置与简单HA、Load Balance实现》](20180614_02.md)  
 ##### 20180614_01.md   [《PostgreSQL libpq multi-host 配置与简单HA实现》](20180614_01.md)  
+##### 20180613_05.md   [《[未完待续] PostgreSQL 一键诊断项 - 珍藏级》](20180613_05.md)  
 ##### 20180613_04.md   [《PostgreSQL 实时健康监控 大屏 - 低频指标 - 珍藏级》](20180613_04.md)  
 ##### 20180613_03.md   [《PostgreSQL 实时健康监控 大屏 - 高频指标(服务器) - 珍藏级》](20180613_03.md)  
 ##### 20180613_02.md   [《PostgreSQL 实时健康监控 大屏 - 高频指标 - 珍藏级》](20180613_02.md)  
@@ -39,4 +40,4 @@
 ##### 20180602_01.md   [《CentOS 7 动态调节CPU频率 - 给CPU升降频》](20180602_01.md)  
 ##### 20180601_03.md   [《为什么PostgreSQL流复制备库在启动时不会立即启动wal receiver - startup慢导致需要的WAL在上游已删除》](20180601_03.md)  
 ##### 20180601_02.md   [《PostgreSQL standby会不会做检查点? 以及做检查点的用处》](20180601_02.md)  
-##### 20180601_01.md   [《PostgreSQL pg_recvlogical 与 test_decoding 自定义，支持source table filter, 对接kafka,es等》](20180601_01.md)  
+##### 20180601_01.md   [《PostgreSQL pg_recvlogical 与 test_decoding 自定义，支持source table filter, 对接kafka,es等 - PostgreSQL CDC - (wal2json + Debezium)》](20180601_01.md)  
